@@ -1,5 +1,6 @@
 {
   "name": "Gothic70",
+  "description": "Gothic70 by Worldspawn Keyboards is an Alice-style 70% keyboard with an arrow cluster",
   "lighting": "qmk_backlight_rgblight",
   "productId": "0x0070",
   "vendorId": "0x0901",
