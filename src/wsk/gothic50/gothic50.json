@@ -1,5 +1,6 @@
 {
     "name": "Gothic50",
+    "description": "Gothic50 by Worldspawn Keyboards is an Alice-style 50% keyboard",
     "lighting": "qmk_backlight_rgblight",
     "productId": "0xBE50",
     "vendorId": "0xBEEFE",
